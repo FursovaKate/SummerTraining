@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelDownloader", "ParallelDownloader\ParallelDownloader.csproj", "{5A677FDE-836B-48D8-A180-4E8A1B656B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelDownloader_test", "ParallelDownloader_test\ParallelDownloader_test.csproj", "{23533C11-66F5-4881-8416-4B82AF7F0667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A677FDE-836B-48D8-A180-4E8A1B656B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A677FDE-836B-48D8-A180-4E8A1B656B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A677FDE-836B-48D8-A180-4E8A1B656B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A677FDE-836B-48D8-A180-4E8A1B656B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23533C11-66F5-4881-8416-4B82AF7F0667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23533C11-66F5-4881-8416-4B82AF7F0667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23533C11-66F5-4881-8416-4B82AF7F0667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23533C11-66F5-4881-8416-4B82AF7F0667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9071CD2-1619-4BB3-960B-0BC859FFBD1F}
+	EndGlobalSection
+EndGlobal

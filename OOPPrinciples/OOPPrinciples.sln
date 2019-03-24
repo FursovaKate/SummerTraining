@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSorter", "MatrixSorter\MatrixSorter.csproj", "{1D6D93A2-0F1C-4135-BDED-C1123CD1FE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesHierarchy", "ShapesHierarchy\ShapesHierarchy.csproj", "{80D0CE6C-7C62-46BE-9BD1-77FB266F3F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomalCalculator", "PolynomalCalculator\PolynomalCalculator.csproj", "{D0377BE5-C192-468F-8EA0-C6F1C423D635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSorter_test", "MatrixSorter_test\MatrixSorter_test.csproj", "{70F717AC-3072-4726-ABD2-5EA461A2F904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesHierarchy_test", "ShapesHierarchy_test\ShapesHierarchy_test.csproj", "{64A15B63-450A-4BC7-B83A-5FAFDACE9D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomalCalculator_test", "PolynomalCalculator_test\PolynomalCalculator_test.csproj", "{19028F1E-70D6-4EBC-B45B-995FB545BDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6D93A2-0F1C-4135-BDED-C1123CD1FE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6D93A2-0F1C-4135-BDED-C1123CD1FE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6D93A2-0F1C-4135-BDED-C1123CD1FE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6D93A2-0F1C-4135-BDED-C1123CD1FE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D0CE6C-7C62-46BE-9BD1-77FB266F3F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D0CE6C-7C62-46BE-9BD1-77FB266F3F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D0CE6C-7C62-46BE-9BD1-77FB266F3F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D0CE6C-7C62-46BE-9BD1-77FB266F3F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0377BE5-C192-468F-8EA0-C6F1C423D635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0377BE5-C192-468F-8EA0-C6F1C423D635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0377BE5-C192-468F-8EA0-C6F1C423D635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0377BE5-C192-468F-8EA0-C6F1C423D635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F717AC-3072-4726-ABD2-5EA461A2F904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F717AC-3072-4726-ABD2-5EA461A2F904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F717AC-3072-4726-ABD2-5EA461A2F904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F717AC-3072-4726-ABD2-5EA461A2F904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A15B63-450A-4BC7-B83A-5FAFDACE9D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A15B63-450A-4BC7-B83A-5FAFDACE9D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A15B63-450A-4BC7-B83A-5FAFDACE9D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A15B63-450A-4BC7-B83A-5FAFDACE9D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19028F1E-70D6-4EBC-B45B-995FB545BDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19028F1E-70D6-4EBC-B45B-995FB545BDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19028F1E-70D6-4EBC-B45B-995FB545BDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19028F1E-70D6-4EBC-B45B-995FB545BDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EB7EB3-196E-44A8-9E9A-3470F027A9F9}
+	EndGlobalSection
+EndGlobal

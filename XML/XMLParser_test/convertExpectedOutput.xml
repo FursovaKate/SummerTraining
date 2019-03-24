@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<planets>
+  <planet distance="1">
+    <name region="Inner Solar System">Mercury</name>
+  </planet>
+  <planet distance="2">
+    <name region="Inner Solar System">Venus</name>
+  </planet>
+  <planet distance="3">
+    <name region="Inner Solar System">Earth</name>
+  </planet>
+  <planet distance="4">
+    <name region="Inner Solar System">Mars</name>
+  </planet>
+  <planet distance="5">
+    <name region="Outer Solar System">Jupiter</name>
+  </planet>
+  <planet distance="6">
+    <name region="Outer Solar System">Saturn</name>
+  </planet>
+  <planet distance="7">
+    <name region="Outer Solar System">Uranus</name>
+  </planet>
+  <planet distance="8">
+    <name region="Outer Solar System">Neptune</name>
+  </planet>
+</planets>

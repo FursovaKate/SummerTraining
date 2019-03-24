@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_Threadind_and_synch", "HW_Threadind_and_synch\HW_Threadind_and_synch.csproj", "{2E1EF6FB-AB9E-4591-BBA7-39D7EE2C670A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1EF6FB-AB9E-4591-BBA7-39D7EE2C670A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1EF6FB-AB9E-4591-BBA7-39D7EE2C670A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1EF6FB-AB9E-4591-BBA7-39D7EE2C670A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1EF6FB-AB9E-4591-BBA7-39D7EE2C670A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B15F45B-7066-4EBF-93A1-96D43702B1AE}
+	EndGlobalSection
+EndGlobal
